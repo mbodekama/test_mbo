@@ -1,0 +1,14 @@
+1 - Fichier Excel PARTENAIRES.CSV
+
+Trouver le nouveau nom des 102 autres partenaires / creer ceux qui n'existent pas
+
+2 - Uploader dans la table PARTENAIRES
+
+3 - Executer http://127.0.0.1:8000/tiersChange
+
+4 - Extraire la table tiers en csv et utiliser les donnees de la colonne new_nam pour remplir
+	la colonne tiers de JOURNAL REPORT A NOUVEAU xls
+
+5- FAIRE CORRESPONDRE LES COMPTES DANS LE FICHIER  COMPTNOTFOUND
+
+5 - IMPORTER SUR PGI par 2000 entrée
